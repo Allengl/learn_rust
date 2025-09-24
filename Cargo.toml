@@ -1,0 +1,18 @@
+[workspace]
+members = [
+    "guessing_game",
+    "data_type",
+    "basic_syntax",
+    "variables",
+    "word_count",
+    "traittt",
+    "branches",
+    "error_handle",
+    "control_flow",
+    "ownership",
+]
+
+resolver = "1"
+
+[workspace.dependencies]
+# Add common dependencies here if needed
