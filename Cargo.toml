@@ -9,7 +9,7 @@ members = [
     "branches",
     "error_handle",
     "control_flow",
-    "ownership",
+    "ownership", "first_word", "cal_area",
 ]
 
 resolver = "1"
